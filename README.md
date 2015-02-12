@@ -17,14 +17,14 @@ The format of the file for each line is
 
 If you want some names to go with the item numbers:
 
-1) Bread
-2) Cheese
-3) Lettuce
-4) Eggs
-5) Apples
-6) Oranges
-7) Pears
-8) Rice
-9) Durian
+1. Bread
+2. Cheese
+3. Lettuce
+4. Eggs
+5. Apples
+6. Oranges
+7. Pears
+8. Rice
+9. Durian
 
 Good Luck.
